@@ -1,6 +1,6 @@
 ## Live Demo
 
-You can see the live demo [here]()
+You can see the live demo [here](https://hbtch.github.io/spa-cards-nasa/)
 
 # Getting Started with Create React App
 

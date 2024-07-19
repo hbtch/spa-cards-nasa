@@ -7,10 +7,10 @@ const Card = ({imageUrl, title, onLike, onDelete, isLiked}) => {
             <CardImage src={imageUrl} alt={title} />
             <ButtonContainer>
                 <LikeButton onClick={onLike} isLiked={isLiked}>
-                <img src="/like.svg" alt="like" />
+                <img src="/spa-cards-nasa/like.svg" alt="like" />
                 </LikeButton>
                 <StyledButton onClick={onDelete}>
-                <img src="/trash.svg" alt="delete" />
+                <img src="/spa-cards-nasa/trash.svg" alt="delete" />
                 </StyledButton>
             </ButtonContainer>
         </CardContainer>
