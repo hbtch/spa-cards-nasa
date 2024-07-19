@@ -1,7 +1,9 @@
+import HomePage from './screens/Homepage/Homepage'
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <HomePage />
     </div>
   );
 }
