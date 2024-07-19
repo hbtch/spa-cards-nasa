@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/spa-cards-nasa/static/js/main.b5a47434.js",
+    "main.js": "/spa-cards-nasa/static/js/main.e35decbe.js",
     "index.html": "/spa-cards-nasa/index.html",
-    "main.b5a47434.js.map": "/spa-cards-nasa/static/js/main.b5a47434.js.map"
+    "main.e35decbe.js.map": "/spa-cards-nasa/static/js/main.e35decbe.js.map"
   },
   "entrypoints": [
-    "static/js/main.b5a47434.js"
+    "static/js/main.e35decbe.js"
   ]
 }
