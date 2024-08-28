@@ -10,7 +10,7 @@ const HomePage = () => {
     const [likedGalaxies, setLikedGalaxies] = useState(new Set());
     const [filterLiked, setFilterLiked] = useState(false);
 //используем useEffect для загрузки данных
-useEffect(() => {
+    useEffect(() => {
     const fetchGalaxies = async () => {
       try {
         const data = await fetchData();
