@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/spa-cards-nasa/static/js/main.e35decbe.js",
+    "main.css": "/spa-cards-nasa/static/css/main.1db48cfc.css",
+    "main.js": "/spa-cards-nasa/static/js/main.fbd8ea13.js",
     "index.html": "/spa-cards-nasa/index.html",
-    "main.e35decbe.js.map": "/spa-cards-nasa/static/js/main.e35decbe.js.map"
+    "main.1db48cfc.css.map": "/spa-cards-nasa/static/css/main.1db48cfc.css.map",
+    "main.fbd8ea13.js.map": "/spa-cards-nasa/static/js/main.fbd8ea13.js.map"
   },
   "entrypoints": [
-    "static/js/main.e35decbe.js"
+    "static/css/main.1db48cfc.css",
+    "static/js/main.fbd8ea13.js"
   ]
 }
